@@ -1,0 +1,2 @@
+Name = mamun ,age = 20
+mamun
